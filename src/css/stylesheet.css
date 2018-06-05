@@ -1,0 +1,24 @@
+.Header-class
+{
+    text-align: center;
+    background-color: aqua;
+    min-height: 170px;
+
+}
+.Header-title
+{
+    font-weight: bold;
+    font-size: 36px;
+    font-family: "Arial Black";
+    color:white;
+}
+.Keyword-div
+{
+padding-top:25px;
+}
+#Keyword
+{
+    width:350px;
+    height: 40px;
+    font-size: 36px;
+}
